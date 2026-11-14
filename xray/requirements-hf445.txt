@@ -2,5 +2,5 @@
 # Installed into .venv-hf445 by scripts/setup.sh; read by `token-xray legacy-ga`.
 transformers==4.45.2
 torch==2.4.1
-accelerate==0.34.2
+accelerate==1.15.0
 numpy<2.1
